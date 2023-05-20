@@ -1,13 +1,18 @@
 
-#Git   | repo XML
-:---------------------------------------------|:-------------------|
-1. Create a remote repository called           | XML
-2. Clone the XML repository to the local computer | git clone https://github.com/ElenaAvgustinovich1992/XML.git
-3. Create a new.xml file inside the local XML| touch new.xml 
-4. Add the file to Git | git add .  
-5. Commit the file | git commit -m "add xml" 
-6.Send the file to a remote GitHub repository | git push origin main 
-7. Edit the content of the file new.xml - write information about yourself (full name, age, number of pets, future desired salary). Write everything in XML format |
+ #Git                                                                                                                                                               | repo XML |
+:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------
+| 1. Create a remote repository called                                                                                                                               | XML |
+| 2. Clone the XML repository to the local computer                                                                                                                  | git clone https://github.com/ElenaAvgustinovich1992/ |
+| 3. Create a new.xml file inside the local XML                                                                                                                      | touch new.xml |
+| 4. Add the file to Git                                                                                                                                             | git add .  |
+| 5. Commit the file                                                                                                                                                 | git commit -m "add xml" |
+| 6.Send the file to a remote GitHub repository                                                                                                                      | git push origin main |
+| 7. Edit the content of the file new.xml - write information about yourself (full name, age, number of pets, future desired salary). Write everything in XML format |                              |
+
+8. 
+
+
+
 
 
 
